@@ -1,0 +1,12 @@
+{
+  "agent": {
+    "language": "zh-CN",
+    "defaults": {
+      "replyLanguage": "zh-CN"
+    }
+  },
+  "workspace": {
+    "locale": "zh-CN",
+    "defaultReply": "Chinese"
+  }
+}
